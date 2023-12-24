@@ -11,4 +11,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=marouane-bouchtaoui&theme=github_dark&show_icons=true&locale=en" alt="marouane-bouchtaoui" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=marouane-bouchtaoui&" alt="marouane-bouchtaoui" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=marouane-bouchtaoui&theme=github_dark&" alt="marouane-bouchtaoui" /></p>

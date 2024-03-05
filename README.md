@@ -11,12 +11,13 @@
 <h1 align="center">
  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=marouane-bouchtaoui&theme=github_dark" />
 </h1>
+<h1 align="center">
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=marouane-bouchtaoui&theme=github_dark&" alt="marouane-bouchtaoui" /></p>
+
 <p>
  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=marouane-bouchtaoui&show_icons=true&locale=en&layout=compact&theme=github_dark" alt="marouane-bouchtaoui" height="192px"/> <br/>
 </p>
+</h1>
 <!-- <h1 align="center">
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=marouane-bouchtaoui&theme=github_dark&show_icons=true&locale=en" alt="marouane-bouchtaoui" /></p>
 </h1> -->
-<h1 align="center">
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=marouane-bouchtaoui&theme=github_dark&" alt="marouane-bouchtaoui" /></p>
-</h1>

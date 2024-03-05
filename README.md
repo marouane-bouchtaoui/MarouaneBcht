@@ -4,7 +4,7 @@
 <br>
 <center>
 - 📩 How to reach me **bouchtaoui.marouane@gmail.com**
-</center>
+
 <br>
 
 <h3 align="left">Connect with me:</h3>

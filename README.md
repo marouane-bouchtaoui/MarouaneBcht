@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Marouane Bouchtaoui, Software Engineer</h1>
 
 
-<br>
 <center>
+<br>
 - 📩 How to reach me **bouchtaoui.marouane@gmail.com**
 
 <br>

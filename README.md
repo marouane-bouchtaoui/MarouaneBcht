@@ -30,6 +30,7 @@
   <br/>
   <p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-streak-stats.herokuapp.com/?user=marouane-bouchtaoui&theme=algolia" alt="marouane-bouchtaoui"  />
+<br/>
   &nbsp;
 	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=marouane-bouchtaoui&show_icons=true&locale=en&layout=compact&theme=github_dark" alt="marouane-bouchtaoui" height="192px"/>
   <br/>

@@ -10,9 +10,11 @@
 </h3>
 
 
-<br>
+<br/>
 <p align="center">
+	
 - 📩 How to reach me **bouchtaoui.marouane@gmail.com**
+	
 </p>
 <br>
 

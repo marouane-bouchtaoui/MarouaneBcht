@@ -23,7 +23,7 @@
 
 <h1 align="center">
 <p>
- <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=marouane-bouchtaoui&theme=github_dark&" alt="marouane-bouchtaoui" />
+ <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=marouane-bouchtaoui&theme=algolia" alt="marouane-bouchtaoui"  />
 </p>
 
 <p>

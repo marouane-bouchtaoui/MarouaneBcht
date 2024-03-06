@@ -2,8 +2,6 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=marouane-bouchtaoui&theme=github_dark" />
  </h1>
 
- <br>
-
 <h1 align="center">Hi there, I'm Marouane Bouchtaoui<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"><br> </h1>
 <p align="center">
  Software Engineer
